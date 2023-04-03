@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 - 📫 Looking forward to working with you, WeChat 15262973985
 - 😄 Pronouns: linyuxuan
 - ⚡ Fun fact: ...
+- 
 🤝 Let's do some interesting projects together 👆!!!
 ---
