@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+- 🔭 I'm a novice independent developer
+- 🌱 Currently, I have a period of Java internship experience, mainly engaged in back-end development
+- 👯 I'm learning Golang and Cloud Native
+- 🤔 I'm very optimistic about the direction of cloud native blockchain and AI, and I am also working towards this direction at present.
+- 💬 Some mid stage projects are being completed, such as aggregation search, responsibility division, etc
+- 📫 Looking forward to working with you, WeChat 15262973985
+- 😄 Pronouns: linyuxuan
+- ⚡ Fun fact: ...
 🤝 Let's do some interesting projects together 👆!!!
 ---
